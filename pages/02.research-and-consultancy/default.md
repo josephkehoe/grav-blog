@@ -13,7 +13,6 @@ Institutes of Technology were traditionally teaching colleges where we taught fr
 Most work up to now was consultancy for businesses: testing ideas and developing prototypes for quick commercial release. Recently however we are expected to do more longer term (blue sky or theoretical) research.
 
  
-
 I am currently one of the directors of the gameCore research initiative at IT Carlow.  You will find more details of both consultancy work undertaken and current research on the gameCore website: www.gamecore.ie
 
 My main research interests are:
